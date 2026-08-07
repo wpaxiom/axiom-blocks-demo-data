@@ -27,13 +27,13 @@
 
 <channel>
 	<title>axiom-blocks</title>
-	<link>http://axiom-blocks.local</link>
+	<link>https://wpaxiom.com</link>
 	<description></description>
 	<pubDate>Thu, 06 Aug 2026 06:46:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://axiom-blocks.local</wp:base_site_url>
-	<wp:base_blog_url>http://axiom-blocks.local</wp:base_blog_url>
+	<wp:base_site_url>https://wpaxiom.com</wp:base_site_url>
+	<wp:base_blog_url>https://wpaxiom.com</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[dev-email@wpengine.local]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -76,10 +76,10 @@
 
 																																																																														<item>
 		<title><![CDATA[Axiom Landing]]></title>
-		<link>http://axiom-blocks.local/</link>
+		<link>https://wpaxiom.com/</link>
 		<pubDate>Wed, 05 Aug 2026 14:24:30 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/axiom-landing/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/axiom-landing/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:axiom-blocks/advanced-section {"align":"full","layout":{"type":"constrained","contentSize":"1160px"},"bgType":"gradient","bgGradType":"radial","bgGradStops":[{"color":"#F1EBFE","position":0},{"color":"#FBFBFD","position":62}],"minHeight":"auto","verticalAlign":"top","horizontalAlign":"center","paddingTop":"clamp(60px,9vw,104px)","paddingBottom":"0px","paddingRight":"clamp(20px,5vw,40px)","paddingLeft":"clamp(20px,5vw,40px)"} -->
 <!-- wp:axiom-blocks/advanced-section {"layout":{"type":"default"},"minHeight":"auto","layoutType":"flex","flexDirection":"row","flexWrap":"nowrap","flexJustify":"center","flexAlign":"center","layoutGap":"8px","width":"max-content","maxWidth":"100%","bgType":"color","bgColor":"#FFFFFF","borderStyle":"solid","borderWidth":1,"borderTopWidth":"1px","borderRightWidth":"1px","borderBottomWidth":"1px","borderLeftWidth":"1px","borderColor":"#E3E1EC","borderRadius":999,"sectionShadow":"0 1px 2px #17131F0D, 0 4px 12px -6px #17131F1A","paddingTop":"6px","paddingRight":"16px","paddingBottom":"6px","paddingLeft":"6px"} -->
@@ -100,7 +100,7 @@
 <!-- wp:axiom-blocks/star-rating {"rating":4.9,"precision":"exact","starSize":"15px","filledColor":"#7C3AED","emptyColor":"#E3E1EC","showValue":true,"showCount":true,"reviewCount":1200,"countLabel":"engineering teams","textColor":"#8B8797","alignment":"center","metaFontFamily":"'DM Sans', system-ui, sans-serif","metaFontSize":"14px","marginTop":"22px"} /-->
 <!-- wp:axiom-blocks/advanced-section {"layout":{"type":"default"},"minHeight":"auto","width":"100%","maxWidth":"1000px","bgType":"color","bgColor":"#FFFFFF","borderStyle":"solid","borderWidth":1,"borderTopWidth":"1px","borderRightWidth":"1px","borderBottomWidth":"1px","borderLeftWidth":"1px","borderColor":"#E3E1EC","radiusTopLeft":"18px","radiusTopRight":"18px","radiusBottomRight":"0px","radiusBottomLeft":"0px","sectionShadow":"0 1px 2px #17131F0A, 0 18px 40px -20px #17131F29","marginTop":"clamp(48px,7vw,80px)"} -->
 <!-- wp:image {"className":"axiom-shot"} -->
-<figure class="wp-block-image axiom-shot"><img src="http://axiom-blocks.local/wp-content/uploads/axiom-demo/hero.png" alt="The Sable deploy dashboard"/></figure>
+<figure class="wp-block-image axiom-shot"><img src="/wp-content/uploads/axiom-demo/hero.png" alt="The Sable deploy dashboard"/></figure>
 <!-- /wp:image -->
 <!-- /wp:axiom-blocks/advanced-section -->
 <!-- /wp:axiom-blocks/advanced-section -->
@@ -179,7 +179,7 @@
 <!-- /wp:axiom-blocks/advanced-section -->
 <!-- wp:axiom-blocks/advanced-section {"layout":{"type":"default"},"minHeight":"auto","width":"100%","bgType":"color","bgColor":"#FFFFFF","borderStyle":"solid","borderWidth":1,"borderTopWidth":"1px","borderRightWidth":"1px","borderBottomWidth":"1px","borderLeftWidth":"1px","borderColor":"#E3E1EC","borderRadius":14,"sectionShadow":"0 1px 2px #17131F0A, 0 18px 40px -20px #17131F29"} -->
 <!-- wp:image {"className":"axiom-shot"} -->
-<figure class="wp-block-image axiom-shot"><img src="http://axiom-blocks.local/wp-content/uploads/axiom-demo/deep-dive.png" alt="A Sable preview environment"/></figure>
+<figure class="wp-block-image axiom-shot"><img src="/wp-content/uploads/axiom-demo/deep-dive.png" alt="A Sable preview environment"/></figure>
 <!-- /wp:image -->
 <!-- /wp:axiom-blocks/advanced-section -->
 <!-- /wp:axiom-blocks/advanced-section -->
@@ -288,10 +288,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>http://axiom-blocks.local/navigation/</link>
+		<link>https://wpaxiom.com/navigation/</link>
 		<pubDate>Tue, 14 Jul 2026 14:26:31 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/navigation/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -312,10 +312,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://axiom-blocks.local/wp-global-styles-twentytwentyfive/</link>
+		<link>https://wpaxiom.com/wp-global-styles-twentytwentyfive/</link>
 		<pubDate>Tue, 14 Jul 2026 14:40:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/wp-global-styles-twentytwentyfive/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/wp-global-styles-twentytwentyfive/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"styles":{"color":{"background":"var(--wp--preset--color--base)","text":"var(--wp--preset--color--muted)"},"typography":{"fontFamily":"var(--wp--preset--font-family--dm-sans)","fontSize":"18px","lineHeight":"1.6"},"elements":{"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--space-grotesk)","fontWeight":"600","letterSpacing":"-0.02em"},"color":{"text":"var(--wp--preset--color--contrast)"}},"link":{"color":{"text":"var(--wp--preset--color--accent)"}},"button":{"color":{"background":"var(--wp--preset--color--accent)","text":"#FFFFFF"},"border":{"radius":"10px"}}},"css":"@font-face{font-family:'DM Sans';font-style:normal;font-weight:100 900;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2')}@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:300 700;font-display:swap;src:url(https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2) format('woff2')}.axiom-fill{width:100%}.axiom-head{overflow:visible;-webkit-backdrop-filter:saturate(1.4) blur(14px);backdrop-filter:saturate(1.4) blur(14px)}.axiom-brand a{color:inherit;text-decoration:none}.axiom-foot-links .ab-icon-list__icon:empty{display:none}.axiom-foot-links .ab-icon-list__link{text-decoration:none}.axiom-social .wp-social-link{border:1px solid #EBE9F2;border-radius:10px}.axiom-social .wp-social-link:hover{border-color:#7C3AED}.wp-block-group.axiom-foot-grid{grid-template-columns:1fr}@media(min-width:901px){.wp-block-group.axiom-foot-grid{grid-template-columns:1.6fr 1fr 1fr 1fr}}.wp-block-post-title{display:none!important}.axiom-blocks-section.is-layout-flow>*,.axiom-blocks-section.is-layout-constrained>*{margin-block-start:0}.axiom-shot{margin:0!important}.axiom-shot img{display:block;width:100%;height:auto}html{scroll-behavior:smooth}::selection{background:#F1EBFE;color:#4C1D95}.ab-accordion{width:100%}.ab-accordion__body-inner.ab-accordion__body-inner{margin-inline:0}.ab-pt-plan__name{order:1}.ab-pt-plan__desc.ab-pt-plan__desc{order:2;margin-top:6px;min-height:40px;opacity:1}.ab-pt-plan__price.ab-pt-plan__price{order:3;margin:18px 0 0}.ab-pt-plan__currency.ab-pt-plan__currency{align-self:baseline;margin-top:0;opacity:1}.ab-pt-plan__period.ab-pt-plan__period{opacity:1}.ab-pt-plan__cta-area.ab-pt-plan__cta-area{order:4;margin-top:24px}.ab-pt-plan__features.ab-pt-plan__features{order:5;margin:26px 0 0;padding-top:26px;border-top:1px solid #EBE9F2}.ab-pt-plan__badge.ab-pt-plan__badge{left:32px;transform:none}.ab-pt-plan__cta.ab-pt-plan__cta{background:#FFFFFF;color:#17131F;border-color:#E3E1EC}.ab-pt-plan__cta.ab-pt-plan__cta:hover,.ab-pt-plan__cta.ab-pt-plan__cta:focus-visible{background:#FFFFFF;color:#7C3AED;border-color:#7C3AED;opacity:1}.ab-pt-plan.is-highlight .ab-pt-plan__cta.ab-pt-plan__cta{background:#7C3AED;color:#FFFFFF;border-color:transparent}.ab-pt-plan.is-highlight .ab-pt-plan__cta.ab-pt-plan__cta:hover,.ab-pt-plan.is-highlight .ab-pt-plan__cta.ab-pt-plan__cta:focus-visible{background:#6D28D9;color:#FFFFFF;border-color:transparent;opacity:1}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}.wp-site-blocks>header.wp-block-template-part,.wp-site-blocks>main,.wp-site-blocks>footer.wp-block-template-part{margin-block-start:0;margin-block-end:0}"},"settings":{"color":{"palette":{"custom":[{"slug":"base","color":"#FBFBFD","name":"Base"},{"slug":"contrast","color":"#17131F","name":"Ink"},{"slug":"surface","color":"#FFFFFF","name":"Surface"},{"slug":"tint","color":"#F5F3FB","name":"Tint"},{"slug":"muted","color":"#5C5768","name":"Muted"},{"slug":"border","color":"#EBE9F2","name":"Border"},{"slug":"accent","color":"#7C3AED","name":"Accent"},{"slug":"accent-tint","color":"#F1EBFE","name":"Accent tint"},{"slug":"ink-deep","color":"#171225","name":"Ink deep"}]}},"layout":{"contentSize":"1160px","wideSize":"1160px"},"spacing":{"spacingSizes":{"custom":[{"slug":"40","size":"20px","name":"S"},{"slug":"60","size":"clamp(40px,6vw,64px)","name":"M"},{"slug":"80","size":"clamp(72px,10vw,132px)","name":"XL section"}]}},"typography":{"fontFamilies":{"theme":[{"slug":"manrope","name":"Manrope","fontFamily":"Manrope, sans-serif"},{"slug":"fira-code","name":"Fira Code","fontFamily":"\"Fira Code\", monospace"}],"custom":[{"slug":"dm-sans","name":"DM Sans","fontFamily":"\"DM Sans\", sans-serif"},{"slug":"space-grotesk","name":"Space Grotesk","fontFamily":"\"Space Grotesk\", sans-serif"}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -337,10 +337,10 @@
 						</item>
 																													<item>
 		<title><![CDATA[Page: Axiom Landing]]></title>
-		<link>http://axiom-blocks.local/page-axiom-landing/</link>
+		<link>https://wpaxiom.com/page-axiom-landing/</link>
 		<pubDate>Wed, 05 Aug 2026 15:40:49 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/page-axiom-landing/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/page-axiom-landing/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","tagName":"header"} /-->
 
@@ -370,10 +370,10 @@
 						</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>http://axiom-blocks.local/header/</link>
+		<link>https://wpaxiom.com/header/</link>
 		<pubDate>Thu, 06 Aug 2026 02:23:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/header/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/header/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:axiom-blocks/advanced-section {"align":"full","className":"axiom-head","layout":{"type":"constrained","contentSize":"1160px"},"bgType":"color","bgColor":"#FBFBFDD1","minHeight":"72px","verticalAlign":"center","horizontalAlign":"center","borderStyle":"solid","borderColor":"#EBE9F2","borderTopWidth":"0px","borderRightWidth":"0px","borderBottomWidth":"1px","borderLeftWidth":"0px","paddingTop":"10px","paddingBottom":"10px","paddingRight":"clamp(20px,5vw,40px)","paddingLeft":"clamp(20px,5vw,40px)"} -->
 <!-- wp:group {"className":"axiom-fill","style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
@@ -382,22 +382,22 @@
 <div class="wp-block-group">
 <!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group">
-<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"http://axiom-blocks.local/"} /-->
+<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"/"} /-->
 <!-- wp:paragraph {"className":"axiom-brand","style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"600","letterSpacing":"-0.02em","lineHeight":"1"},"color":{"text":"#17131F"}}} -->
-<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="http://axiom-blocks.local/">Sable</a></p>
+<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="/">Sable</a></p>
 <!-- /wp:paragraph -->
 </div>
 <!-- /wp:group -->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Product","url":"http://axiom-blocks.local/#features","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Pricing","url":"http://axiom-blocks.local/#pricing","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Docs","url":"http://axiom-blocks.local/#faq","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Changelog","url":"http://axiom-blocks.local/#faq","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Product","url":"#features","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Pricing","url":"#pricing","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Docs","url":"#faq","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Changelog","url":"#faq","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
 </div>
 <!-- /wp:group -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group">
 <!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Sign in","url":"#","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
-<!-- wp:axiom-blocks/advanced-button {"text":"Start free","url":"http://axiom-blocks.local/#pricing","stylePreset":"fill","sizePreset":"sm","bgColor":"#7C3AED","textColor":"#FFFFFF","hoverBgColor":"#6D28D9","hoverTextColor":"#FFFFFF","borderRadius":"10px","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"600","lineHeight":"1","buttonPaddingTop":"11px","buttonPaddingRight":"18px","buttonPaddingBottom":"11px","buttonPaddingLeft":"18px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"text":"Start free","url":"#pricing","stylePreset":"fill","sizePreset":"sm","bgColor":"#7C3AED","textColor":"#FFFFFF","hoverBgColor":"#6D28D9","hoverTextColor":"#FFFFFF","borderRadius":"10px","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"600","lineHeight":"1","buttonPaddingTop":"11px","buttonPaddingRight":"18px","buttonPaddingBottom":"11px","buttonPaddingLeft":"18px"} /-->
 </div>
 <!-- /wp:group -->
 </div>
@@ -427,10 +427,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Footer]]></title>
-		<link>http://axiom-blocks.local/footer/</link>
+		<link>https://wpaxiom.com/footer/</link>
 		<pubDate>Thu, 06 Aug 2026 02:25:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/footer/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/footer/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:axiom-blocks/advanced-section {"align":"full","layout":{"type":"constrained","contentSize":"1160px"},"bgType":"color","bgColor":"#FFFFFF","minHeight":"auto","verticalAlign":"top","horizontalAlign":"center","borderStyle":"solid","borderColor":"#EBE9F2","borderTopWidth":"1px","borderRightWidth":"0px","borderBottomWidth":"0px","borderLeftWidth":"0px","paddingTop":"clamp(56px,7vw,80px)","paddingBottom":"40px","paddingRight":"clamp(20px,5vw,40px)","paddingLeft":"clamp(20px,5vw,40px)"} -->
 <!-- wp:group {"className":"axiom-foot-grid axiom-fill","style":{"spacing":{"blockGap":"40px"}},"layout":{"type":"grid","columnCount":4}} -->
@@ -439,9 +439,9 @@
 <div class="wp-block-group">
 <!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"bottom":"14px"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group" style="margin-bottom:14px">
-<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"http://axiom-blocks.local/"} /-->
+<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"/"} /-->
 <!-- wp:paragraph {"className":"axiom-brand","style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"600","letterSpacing":"-0.02em","lineHeight":"1"},"color":{"text":"#17131F"}}} -->
-<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="http://axiom-blocks.local/">Sable</a></p>
+<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="/">Sable</a></p>
 <!-- /wp:paragraph -->
 </div>
 <!-- /wp:group -->
@@ -453,13 +453,13 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group">
 <!-- wp:axiom-blocks/advanced-heading {"headingText":"Product","tagName":"h4","headingColor":"#8B8797","headingFontFamily":"'DM Sans', system-ui, sans-serif","headingFontSize":"13px","headingFontWeight":"600","headingLetterSpacing":"0.1em","headingTextTransform":"uppercase","headingLineHeight":"1.2","marginBottom":"16px"} /-->
-<!-- wp:axiom-blocks/icon-list {"className":"axiom-foot-links","layout":"vertical","itemsAlign":"left","items":[{"id":"p1","icon":"","text":"Features","url":"http://axiom-blocks.local/#features"},{"id":"p2","icon":"","text":"Pricing","url":"http://axiom-blocks.local/#pricing"},{"id":"p3","icon":"","text":"Changelog","url":"#"},{"id":"p4","icon":"","text":"Integrations","url":"#"}],"textColor":"#5C5768","linkColor":"#5C5768","linkHoverColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","gap":"0px","rowGap":"11px"} /-->
+<!-- wp:axiom-blocks/icon-list {"className":"axiom-foot-links","layout":"vertical","itemsAlign":"left","items":[{"id":"p1","icon":"","text":"Features","url":"#features"},{"id":"p2","icon":"","text":"Pricing","url":"#pricing"},{"id":"p3","icon":"","text":"Changelog","url":"#"},{"id":"p4","icon":"","text":"Integrations","url":"#"}],"textColor":"#5C5768","linkColor":"#5C5768","linkHoverColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","gap":"0px","rowGap":"11px"} /-->
 </div>
 <!-- /wp:group -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group">
 <!-- wp:axiom-blocks/advanced-heading {"headingText":"Resources","tagName":"h4","headingColor":"#8B8797","headingFontFamily":"'DM Sans', system-ui, sans-serif","headingFontSize":"13px","headingFontWeight":"600","headingLetterSpacing":"0.1em","headingTextTransform":"uppercase","headingLineHeight":"1.2","marginBottom":"16px"} /-->
-<!-- wp:axiom-blocks/icon-list {"className":"axiom-foot-links","layout":"vertical","itemsAlign":"left","items":[{"id":"r1","icon":"","text":"Docs","url":"http://axiom-blocks.local/#faq"},{"id":"r2","icon":"","text":"API","url":"#"},{"id":"r3","icon":"","text":"Status","url":"#"},{"id":"r4","icon":"","text":"Community","url":"#"}],"textColor":"#5C5768","linkColor":"#5C5768","linkHoverColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","gap":"0px","rowGap":"11px"} /-->
+<!-- wp:axiom-blocks/icon-list {"className":"axiom-foot-links","layout":"vertical","itemsAlign":"left","items":[{"id":"r1","icon":"","text":"Docs","url":"#faq"},{"id":"r2","icon":"","text":"API","url":"#"},{"id":"r3","icon":"","text":"Status","url":"#"},{"id":"r4","icon":"","text":"Community","url":"#"}],"textColor":"#5C5768","linkColor":"#5C5768","linkHoverColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","gap":"0px","rowGap":"11px"} /-->
 </div>
 <!-- /wp:group -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
