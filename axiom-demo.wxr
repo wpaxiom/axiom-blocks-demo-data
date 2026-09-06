@@ -1822,15 +1822,15 @@
 <div class="wp-block-group">
 <!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group">
-<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"/"} /-->
+<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"https://wpaxiom.com/"} /-->
 <!-- wp:paragraph {"className":"axiom-brand","style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"600","letterSpacing":"-0.02em","lineHeight":"1"},"color":{"text":"#17131F"}}} -->
-<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="/">Sable</a></p>
+<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="https://wpaxiom.com/">Sable</a></p>
 <!-- /wp:paragraph -->
 </div>
 <!-- /wp:group -->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Home","url":"/","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Home","url":"https://wpaxiom.com/","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
 <!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Features","url":"#features","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Blog","url":"/blog/","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Blog","url":"https://wpaxiom.com/blog/","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
 <!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Pricing","url":"#pricing","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
 <!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"FAQ","url":"#faq","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
 </div>
@@ -1880,9 +1880,9 @@
 <div class="wp-block-group">
 <!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"bottom":"14px"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group" style="margin-bottom:14px">
-<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"/"} /-->
+<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"https://wpaxiom.com/"} /-->
 <!-- wp:paragraph {"className":"axiom-brand","style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"600","letterSpacing":"-0.02em","lineHeight":"1"},"color":{"text":"#17131F"}}} -->
-<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="/">Sable</a></p>
+<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="https://wpaxiom.com/">Sable</a></p>
 <!-- /wp:paragraph -->
 </div>
 <!-- /wp:group -->
@@ -2020,7 +2020,7 @@
 <!-- wp:axiom-blocks/advanced-heading {"headingText":"Keep reading","tagName":"h2","subEnabled":true,"subText":"More short pieces on deploys, previews and the parts of shipping nobody puts on a slide.","headingSubGap":"14px","headingColor":"#17131F","subColor":"#5C5768","headingFontFamily":"'Space Grotesk', sans-serif","headingFontWeight":"600","headingFontSize":"clamp(24px,3vw,32px)","headingLineHeight":"1.15","headingLetterSpacing":"-0.02em","headingTextAlign":"center","subFontFamily":"'DM Sans', system-ui, sans-serif","subFontSize":"16px","subLineHeight":"1.6","subTextAlign":"center","marginBottom":"22px"} /-->
 
 <!-- wp:axiom-blocks/button-group {"justify":"center","gap":12} -->
-<!-- wp:axiom-blocks/advanced-button {"text":"All articles","url":"/blog/","icon":"arrow-right","iconSize":"17px","iconGap":"8px","sizePreset":"lg","textColor":"#FFFFFF","bgColor":"#7C3AED","borderRadius":"10px","hoverTextColor":"#FFFFFF","hoverBgColor":"#6D28D9","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"text":"All articles","url":"https://wpaxiom.com/blog/","icon":"arrow-right","iconSize":"17px","iconGap":"8px","sizePreset":"lg","textColor":"#FFFFFF","bgColor":"#7C3AED","borderRadius":"10px","hoverTextColor":"#FFFFFF","hoverBgColor":"#6D28D9","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} /-->
 
 <!-- wp:axiom-blocks/advanced-button {"text":"Start free","url":"#pricing","stylePreset":"outline","sizePreset":"lg","textColor":"#17131F","borderColor":"#D8D4E6","hoverTextColor":"#17131F","hoverBgColor":"#FFFFFF","borderRadius":"10px","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} /-->
 <!-- /wp:axiom-blocks/button-group -->

@@ -21,10 +21,14 @@ What it does:
   * The two screenshots get pointed at the copies published on ps.w.org with
     the plugin assets. Root-relative paths were tried once and do not work:
     Playground resolves them against the current page, not the site root.
-  * Internal links in block markup go back to relative paths and bare anchors,
-    so they follow whatever host the demo is imported onto.
-  * link and guid elements get a neutral public host, matching what the export
-    would look like if it had come from the production site.
+  * Internal links stay absolute, under a single placeholder host that matches
+    wp:base_site_url. Playground's importWxr step rewrites URLs on that host to
+    the live site URL, which is how a link picks up the /scope:.../ prefix the
+    site is served under. Root-relative links were tried and do not work: there
+    is nothing for the importer to match, so /blog/ resolves against the origin
+    and lands on playground.wordpress.net/blog/ with the scope dropped.
+  * Links that are only a fragment become bare anchors. Those already work
+    anywhere and should not be tied to a host.
   * Postmeta that names local files is dropped. WordPress rewrites those itself
     when it sideloads the remote copy, and a stale value beats it to the punch.
 """
@@ -97,23 +101,26 @@ def build_font_map(text):
     return mapping, unknown
 
 
-def relative_link(path):
-    """Turn the path half of a local absolute URL into a portable link."""
-    if path.startswith('/#'):
-        return path[1:]
-    if path in ('', '/'):
-        return '/'
-    return path
+def strip_anchor_host(text):
+    """Reduce a local URL that is only a fragment to a bare anchor.
 
-
-def strip_local_host(text):
-    """Rewrite whatever local absolute URLs are left as relative links.
-
-    Runs after link and guid elements are already handled, so everything still
-    matching here sits inside block markup.
+    These point at a section of the page they already sit on, so hanging a host
+    off them buys nothing and sends the visitor to the front page instead.
     """
-    return re.subn(re.escape(LOCAL) + r'([^"\'<)\s\\]*)',
-                   lambda m: relative_link(m.group(1)), text)
+    return re.subn(re.escape(LOCAL) + r'/(#[^"\'<)\s\\]*)', r'\1', text)
+
+
+def swap_host(text):
+    """Move every remaining local URL onto the placeholder host.
+
+    This covers link, guid, base_site_url and the links inside block markup in
+    one pass, which is what keeps them consistent. importWxr matches content
+    URLs against base_site_url, so a link only survives the import if it is
+    absolute and sits on the same host.
+    """
+    text, plain = re.subn(re.escape(LOCAL), PUBLIC_HOST, text)
+    text, escaped = re.subn(re.escape(escape_json(LOCAL)), escape_json(PUBLIC_HOST), text)
+    return text, plain + escaped
 
 
 def drop_meta(text, key):
@@ -149,16 +156,13 @@ def sanitize(text):
         images += n
     report.append(f'image URLs rewritten to ps.w.org: {images}')
 
-    # Do these after the image pass so an attachment guid keeps its ps.w.org
-    # value instead of being handed the placeholder host.
-    text, links = re.subn(r'(<link>|<guid[^>]*>)' + re.escape(LOCAL),
-                          lambda m: m.group(1) + PUBLIC_HOST, text)
-    text, bases = re.subn(r'(<wp:base_(?:site|blog)_url>)' + re.escape(LOCAL),
-                          lambda m: m.group(1) + PUBLIC_HOST, text)
-    report.append(f'link and guid elements repointed at {PUBLIC_HOST}: {links + bases}')
+    text, anchors = strip_anchor_host(text)
+    report.append(f'fragment-only links reduced to bare anchors: {anchors}')
 
-    text, relatives = strip_local_host(text)
-    report.append(f'block markup links made relative: {relatives}')
+    # Runs after the font and image passes so those keep their own hosts rather
+    # than being handed the placeholder.
+    text, swapped = swap_host(text)
+    report.append(f'URLs moved onto {PUBLIC_HOST}: {swapped}')
 
     dropped = 0
     for key in DROP_META:
