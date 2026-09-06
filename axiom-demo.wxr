@@ -27,13 +27,13 @@
 
 <channel>
 	<title>axiom-blocks</title>
-	<link>http://axiom-blocks.local</link>
+	<link>https://wpaxiom.com</link>
 	<description></description>
 	<pubDate>Sun, 06 Sep 2026 10:20:53 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://axiom-blocks.local</wp:base_site_url>
-	<wp:base_blog_url>http://axiom-blocks.local</wp:base_blog_url>
+	<wp:base_site_url>https://wpaxiom.com</wp:base_site_url>
+	<wp:base_blog_url>https://wpaxiom.com</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[dev-email@wpengine.local]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -115,12 +115,12 @@
 
 		<item>
 		<title><![CDATA[space grotesk;normal;300;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/space-grotesknormal300100u0-10ffff/</link>
+		<link>https://wpaxiom.com/space-grotesknormal300100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/space-grotesknormal300100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/space-grotesknormal300100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsmNsFjTDJK.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"\"Space Grotesk\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk-300-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/spacegrotesk\/v22\/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsmNsFjTDJK.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"\"Space Grotesk\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk-300-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:34]]></wp:post_date>
@@ -136,19 +136,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsmNsFjTDJK.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[space grotesk;normal;400;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/space-grotesknormal400100u0-10ffff/</link>
+		<link>https://wpaxiom.com/space-grotesknormal400100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/space-grotesknormal400100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/space-grotesknormal400100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsmNsFjTDJK.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"Space Grotesk\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk-400-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/spacegrotesk\/v22\/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsmNsFjTDJK.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"Space Grotesk\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk-400-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:34]]></wp:post_date>
@@ -164,19 +160,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsmNsFjTDJK.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[space grotesk;normal;500;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/space-grotesknormal500100u0-10ffff/</link>
+		<link>https://wpaxiom.com/space-grotesknormal500100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/space-grotesknormal500100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/space-grotesknormal500100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsmNsFjTDJK.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"Space Grotesk\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk-500-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/spacegrotesk\/v22\/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsmNsFjTDJK.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"Space Grotesk\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk-500-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:35]]></wp:post_date>
@@ -192,19 +184,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsmNsFjTDJK.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[space grotesk;normal;600;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/space-grotesknormal600100u0-10ffff/</link>
+		<link>https://wpaxiom.com/space-grotesknormal600100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/space-grotesknormal600100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/space-grotesknormal600100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42VksmNsFjTDJK.woff2","fontWeight":"600","fontStyle":"normal","fontFamily":"\"Space Grotesk\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk-600-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/spacegrotesk\/v22\/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42VksmNsFjTDJK.woff2","fontWeight":"600","fontStyle":"normal","fontFamily":"\"Space Grotesk\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk-600-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:35]]></wp:post_date>
@@ -220,19 +208,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42VksmNsFjTDJK.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[space grotesk;normal;700;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/space-grotesknormal700100u0-10ffff/</link>
+		<link>https://wpaxiom.com/space-grotesknormal700100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/space-grotesknormal700100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/space-grotesknormal700100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksmNsFjTDJK.woff2","fontWeight":"700","fontStyle":"normal","fontFamily":"\"Space Grotesk\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk-700-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/spacegrotesk\/v22\/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksmNsFjTDJK.woff2","fontWeight":"700","fontStyle":"normal","fontFamily":"\"Space Grotesk\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk-700-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:35]]></wp:post_date>
@@ -248,19 +232,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksmNsFjTDJK.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;normal;100;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansnormal100100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansnormal100100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansnormal100100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansnormal100100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hS2f3ZGMZpg.woff2","fontWeight":"100","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-100-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hS2f3ZGMZpg.woff2","fontWeight":"100","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-100-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:50]]></wp:post_date>
@@ -276,19 +256,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hS2f3ZGMZpg.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;normal;200;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansnormal200100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansnormal200100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansnormal200100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansnormal200100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhS2f3ZGMZpg.woff2","fontWeight":"200","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-200-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhS2f3ZGMZpg.woff2","fontWeight":"200","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-200-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:50]]></wp:post_date>
@@ -304,17 +280,13 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhS2f3ZGMZpg.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Axiom Landing]]></title>
-		<link>http://axiom-blocks.local/</link>
+		<link>https://wpaxiom.com/</link>
 		<pubDate>Wed, 05 Aug 2026 14:24:30 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/axiom-landing/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/axiom-landing/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:axiom-blocks/advanced-section {"bgType":"gradient","bgGradType":"radial","bgGradStops":[{"color":"#F1EBFE","position":0},{"color":"#FBFBFD","position":62}],"minHeight":"auto","verticalAlign":"top","align":"full","paddingTop":"clamp(60px,9vw,104px)","paddingRight":"clamp(20px,5vw,40px)","paddingBottom":"0px","paddingLeft":"clamp(20px,5vw,40px)","layout":{"type":"constrained"}} -->
 <!-- wp:axiom-blocks/advanced-section {"bgType":"color","bgColor":"#FFFFFF","minHeight":"auto","layoutType":"flex","flexWrap":"nowrap","layoutGap":"8px","borderStyle":"solid","borderWidth":1,"borderColor":"#E3E1EC","borderRadius":999,"borderTopWidth":"1px","borderRightWidth":"1px","borderBottomWidth":"1px","borderLeftWidth":"1px","sectionShadow":"0 1px 2px #17131F0D, 0 4px 12px -6px #17131F1A","paddingTop":"6px","paddingRight":"16px","paddingBottom":"6px","paddingLeft":"6px","layout":{"type":"default"}} -->
@@ -349,7 +321,7 @@
 
 <!-- wp:axiom-blocks/advanced-section {"bgType":"color","bgColor":"#FFFFFF","minHeight":"auto","align":"wide","borderStyle":"solid","borderWidth":1,"borderColor":"#E3E1EC","borderTopWidth":"1px","borderRightWidth":"1px","borderBottomWidth":"1px","borderLeftWidth":"1px","radiusTopLeft":"18px","radiusTopRight":"18px","radiusBottomRight":"0px","radiusBottomLeft":"0px","sectionShadow":"0 1px 2px #17131F0A, 0 18px 40px -20px #17131F29","marginTop":"clamp(48px,7vw,80px)","layout":{"type":"default"}} -->
 <!-- wp:image {"className":"axiom-shot"} -->
-<figure class="wp-block-image axiom-shot"><img src="http://axiom-blocks.local/wp-content/uploads/sable/hero.png" alt="The Sable deploy dashboard"/></figure>
+<figure class="wp-block-image axiom-shot"><img src="https://ps.w.org/axiom-blocks/assets/demo-hero.png" alt="The Sable deploy dashboard"/></figure>
 <!-- /wp:image -->
 <!-- /wp:axiom-blocks/advanced-section -->
 <!-- /wp:axiom-blocks/advanced-section -->
@@ -474,7 +446,7 @@
 
 <!-- wp:axiom-blocks/advanced-section {"bgType":"color","bgColor":"#FFFFFF","minHeight":"auto","borderStyle":"solid","borderWidth":1,"borderColor":"#E3E1EC","borderRadius":14,"borderTopWidth":"1px","borderRightWidth":"1px","borderBottomWidth":"1px","borderLeftWidth":"1px","sectionShadow":"0 1px 2px #17131F0A, 0 18px 40px -20px #17131F29","layout":{"type":"default"}} -->
 <!-- wp:image {"className":"axiom-shot"} -->
-<figure class="wp-block-image axiom-shot"><img src="http://axiom-blocks.local/wp-content/uploads/sable/deep-dive.png" alt="A Sable preview environment"/></figure>
+<figure class="wp-block-image axiom-shot"><img src="https://ps.w.org/axiom-blocks/assets/demo-deep-dive.png" alt="A Sable preview environment"/></figure>
 <!-- /wp:image -->
 <!-- /wp:axiom-blocks/advanced-section -->
 <!-- /wp:axiom-blocks/advanced-section -->
@@ -635,10 +607,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Before]]></title>
-		<link>http://axiom-blocks.local/before/</link>
+		<link>https://wpaxiom.com/before/</link>
 		<pubDate>Thu, 06 Aug 2026 13:11:44 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/before/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/before/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -656,15 +628,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://axiom-blocks.local/wp-content/uploads/sable/hero.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sable/hero.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1020;s:4:"file";s:14:"sable/hero.png";s:8:"filesize";i:147552;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:16:"hero-300x159.png";s:5:"width";i:300;s:6:"height";i:159;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16136;}s:5:"large";a:5:{s:4:"file";s:17:"hero-1024x544.png";s:5:"width";i:1024;s:6:"height";i:544;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:98718;}s:9:"thumbnail";a:5:{s:4:"file";s:16:"hero-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8092;}s:12:"medium_large";a:5:{s:4:"file";s:16:"hero-768x408.png";s:5:"width";i:768;s:6:"height";i:408;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:66998;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"hero-1536x816.png";s:5:"width";i:1536;s:6:"height";i:816;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:170851;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
+						<wp:attachment_url><![CDATA[https://ps.w.org/axiom-blocks/assets/demo-hero.png]]></wp:attachment_url>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_ab_shots_slot]]></wp:meta_key>
 		<wp:meta_value><![CDATA[before]]></wp:meta_value>
@@ -672,10 +636,10 @@
 							</item>
 					<item>
 		<title><![CDATA[After]]></title>
-		<link>http://axiom-blocks.local/after/</link>
+		<link>https://wpaxiom.com/after/</link>
 		<pubDate>Thu, 06 Aug 2026 13:11:45 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/after/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/after/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -693,15 +657,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://axiom-blocks.local/wp-content/uploads/sable/deep-dive.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sable/deep-dive.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1020;s:4:"file";s:19:"sable/deep-dive.png";s:8:"filesize";i:152491;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:21:"deep-dive-300x159.png";s:5:"width";i:300;s:6:"height";i:159;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12775;}s:5:"large";a:5:{s:4:"file";s:22:"deep-dive-1024x544.png";s:5:"width";i:1024;s:6:"height";i:544;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:74889;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"deep-dive-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4163;}s:12:"medium_large";a:5:{s:4:"file";s:21:"deep-dive-768x408.png";s:5:"width";i:768;s:6:"height";i:408;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:49277;}s:9:"1536x1536";a:5:{s:4:"file";s:22:"deep-dive-1536x816.png";s:5:"width";i:1536;s:6:"height";i:816;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:133649;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
+						<wp:attachment_url><![CDATA[https://ps.w.org/axiom-blocks/assets/demo-deep-dive.png]]></wp:attachment_url>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_ab_shots_slot]]></wp:meta_key>
 		<wp:meta_value><![CDATA[after]]></wp:meta_value>
@@ -709,10 +665,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Design tokens that survive a redesign]]></title>
-		<link>http://axiom-blocks.local/design-tokens-survive/</link>
+		<link>https://wpaxiom.com/design-tokens-survive/</link>
 		<pubDate>Sat, 05 Sep 2026 19:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/design-tokens-survive/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/design-tokens-survive/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:axiom-blocks/table-of-contents {"eyebrow":"On this page","markerType":"numbered","bgColor":"#FFFFFF","borderColor":"#EBE9F2","borderRadius":"16px","activeColor":"#7C3AED","markerColor":"#7C3AED","maxWidth":"100%","levelH2":true,"levelH3":false} /-->
 
@@ -774,10 +730,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Spacing scales, and when to break them]]></title>
-		<link>http://axiom-blocks.local/spacing-scales-break/</link>
+		<link>https://wpaxiom.com/spacing-scales-break/</link>
 		<pubDate>Fri, 04 Sep 2026 19:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/spacing-scales-break/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/spacing-scales-break/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.7"},"color":{"text":"#3A3546"}}} -->
 <p class="has-text-color" style="color:#3A3546;font-size:17px;line-height:1.7">Every layout eventually meets a case the scale does not cover. Breaking it deliberately beats drifting off it by accident, and the difference shows up months later when somebody tries to work out why one card has 22px of padding.</p>
@@ -829,10 +785,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Typography for interfaces, not posters]]></title>
-		<link>http://axiom-blocks.local/typography-for-interfaces/</link>
+		<link>https://wpaxiom.com/typography-for-interfaces/</link>
 		<pubDate>Thu, 03 Sep 2026 19:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/typography-for-interfaces/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/typography-for-interfaces/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.7"},"color":{"text":"#3A3546"}}} -->
 <p class="has-text-color" style="color:#3A3546;font-size:17px;line-height:1.7">Interface type is read in glances. That single fact changes most of the decisions people copy from print, and it is why a specimen that looks beautiful at poster size can feel unusable in a sidebar.</p>
@@ -888,10 +844,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Why your grid collapses on tablet]]></title>
-		<link>http://axiom-blocks.local/grid-collapses-tablet/</link>
+		<link>https://wpaxiom.com/grid-collapses-tablet/</link>
 		<pubDate>Wed, 02 Sep 2026 19:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/grid-collapses-tablet/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/grid-collapses-tablet/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.7"},"color":{"text":"#3A3546"}}} -->
 <p class="has-text-color" style="color:#3A3546;font-size:17px;line-height:1.7">The intermediate breakpoint is where most grids quietly fall apart, and the fix is usually to remove a step rather than add one. A three column layout that becomes two at 900px and one at 600px has three states to design, three to test and three to keep in sync.</p>
@@ -947,10 +903,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Container queries in practice]]></title>
-		<link>http://axiom-blocks.local/container-queries-practice/</link>
+		<link>https://wpaxiom.com/container-queries-practice/</link>
 		<pubDate>Tue, 01 Sep 2026 19:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/container-queries-practice/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/container-queries-practice/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.7"},"color":{"text":"#3A3546"}}} -->
 <p class="has-text-color" style="color:#3A3546;font-size:17px;line-height:1.7">After a year of shipping them, the useful pattern is narrower than the demos suggest, and more reliable. Container queries are not a replacement for media queries. They answer a different question.</p>
@@ -1014,10 +970,10 @@
 							</item>
 					<item>
 		<title><![CDATA[A layout is a set of constraints]]></title>
-		<link>http://axiom-blocks.local/layout-is-constraints/</link>
+		<link>https://wpaxiom.com/layout-is-constraints/</link>
 		<pubDate>Mon, 31 Aug 2026 19:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/layout-is-constraints/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/layout-is-constraints/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.7"},"color":{"text":"#3A3546"}}} -->
 <p class="has-text-color" style="color:#3A3546;font-size:17px;line-height:1.7">Describing a layout by what it refuses to do turns out to be more portable than describing what it looks like. "Never more than 1160px, never less than 20px of breathing room, never an orphaned last column" survives a redesign. A screenshot does not.</p>
@@ -1065,10 +1021,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Server rendering is back, quietly]]></title>
-		<link>http://axiom-blocks.local/server-rendering-back/</link>
+		<link>https://wpaxiom.com/server-rendering-back/</link>
 		<pubDate>Sun, 30 Aug 2026 19:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/server-rendering-back/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/server-rendering-back/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.7"},"color":{"text":"#3A3546"}}} -->
 <p class="has-text-color" style="color:#3A3546;font-size:17px;line-height:1.7">Nobody announced it and there was no migration guide, but a lot of teams have moved rendering back to the server over the last two years. The reasons are less ideological than the arguments around them suggest.</p>
@@ -1116,10 +1072,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Progressive enhancement without the sermon]]></title>
-		<link>http://axiom-blocks.local/progressive-enhancement/</link>
+		<link>https://wpaxiom.com/progressive-enhancement/</link>
 		<pubDate>Sat, 29 Aug 2026 19:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/progressive-enhancement/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/progressive-enhancement/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"style":{"typography":{"fontSize":"17px","lineHeight":"1.7"},"color":{"text":"#3A3546"}}} -->
 <p class="has-text-color" style="color:#3A3546;font-size:17px;line-height:1.7">The argument usually arrives wrapped in a moral lecture about users without JavaScript, which is a shame, because the practical case is stronger and much shorter.</p>
@@ -1171,10 +1127,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Caching is a naming problem]]></title>
-		<link>http://axiom-blocks.local/caching-naming-problem/</link>
+		<link>https://wpaxiom.com/caching-naming-problem/</link>
 		<pubDate>Fri, 28 Aug 2026 19:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/caching-naming-problem/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/caching-naming-problem/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:axiom-blocks/table-of-contents {"eyebrow":"On this page","markerType":"numbered","bgColor":"#FFFFFF","borderColor":"#EBE9F2","borderRadius":"16px","activeColor":"#7C3AED","markerColor":"#7C3AED","maxWidth":"100%","levelH2":true,"levelH3":false} /-->
 
@@ -1248,10 +1204,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>http://axiom-blocks.local/blog/</link>
+		<link>https://wpaxiom.com/blog/</link>
 		<pubDate>Sat, 05 Sep 2026 19:03:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/blog-layouts/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/blog-layouts/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:axiom-blocks/reading-progress-bar {"height":"3px","backgroundColor":"#EBE9F2"} /-->
 
@@ -1313,12 +1269,12 @@
 <!-- /wp:axiom-blocks/advanced-heading -->
 
 <!-- wp:axiom-blocks/button-group {"justify":"center"} -->
-<!-- wp:axiom-blocks/advanced-button {"text":"Start free","url":"http://axiom-blocks.local/#pricing","icon":"arrow-right","iconSize":"17px","iconGap":"8px","sizePreset":"lg","textColor":"#FFFFFF","bgColor":"#7C3AED","borderRadius":"10px","hoverTextColor":"#FFFFFF","hoverBgColor":"#6D28D9","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} -->
-<div class="wp-block-axiom-blocks-advanced-button ab-adv-btn-wrap"><a class="ab-adv-btn" href="http://axiom-blocks.local/#pricing"><span class="ab-adv-btn__content"><span class="ab-adv-btn__text">Start free</span></span></a></div>
+<!-- wp:axiom-blocks/advanced-button {"text":"Start free","url":"#pricing","icon":"arrow-right","iconSize":"17px","iconGap":"8px","sizePreset":"lg","textColor":"#FFFFFF","bgColor":"#7C3AED","borderRadius":"10px","hoverTextColor":"#FFFFFF","hoverBgColor":"#6D28D9","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} -->
+<div class="wp-block-axiom-blocks-advanced-button ab-adv-btn-wrap"><a class="ab-adv-btn" href="#pricing"><span class="ab-adv-btn__content"><span class="ab-adv-btn__text">Start free</span></span></a></div>
 <!-- /wp:axiom-blocks/advanced-button -->
 
-<!-- wp:axiom-blocks/advanced-button {"text":"Read the FAQ","url":"http://axiom-blocks.local/#faq","stylePreset":"outline","sizePreset":"lg","textColor":"#FFFFFF","borderColor":"#3A3350","borderRadius":"10px","hoverTextColor":"#FFFFFF","hoverBgColor":"#241D38","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} -->
-<div class="wp-block-axiom-blocks-advanced-button ab-adv-btn-wrap"><a class="ab-adv-btn" href="http://axiom-blocks.local/#faq"><span class="ab-adv-btn__content"><span class="ab-adv-btn__text">Read the FAQ</span></span></a></div>
+<!-- wp:axiom-blocks/advanced-button {"text":"Read the FAQ","url":"#faq","stylePreset":"outline","sizePreset":"lg","textColor":"#FFFFFF","borderColor":"#3A3350","borderRadius":"10px","hoverTextColor":"#FFFFFF","hoverBgColor":"#241D38","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} -->
+<div class="wp-block-axiom-blocks-advanced-button ab-adv-btn-wrap"><a class="ab-adv-btn" href="#faq"><span class="ab-adv-btn__content"><span class="ab-adv-btn__text">Read the FAQ</span></span></a></div>
 <!-- /wp:axiom-blocks/advanced-button -->
 <!-- /wp:axiom-blocks/button-group -->
 <!-- /wp:axiom-blocks/advanced-section -->]]></content:encoded>
@@ -1340,10 +1296,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>http://axiom-blocks.local/navigation/</link>
+		<link>https://wpaxiom.com/navigation/</link>
 		<pubDate>Tue, 14 Jul 2026 14:26:31 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/navigation/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1364,12 +1320,12 @@
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://axiom-blocks.local/wp-global-styles-twentytwentyfive/</link>
+		<link>https://wpaxiom.com/wp-global-styles-twentytwentyfive/</link>
 		<pubDate>Tue, 14 Jul 2026 14:40:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/wp-global-styles-twentytwentyfive/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/wp-global-styles-twentytwentyfive/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"styles":{"color":{"background":"var(--wp--preset--color--base)","text":"var(--wp--preset--color--muted)"},"typography":{"fontFamily":"var(--wp--preset--font-family--dm-sans)","fontSize":"18px","lineHeight":"1.6"},"elements":{"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--space-grotesk)","fontWeight":"600","letterSpacing":"-0.02em"},"color":{"text":"var(--wp--preset--color--contrast)"}},"link":{"color":{"text":"var(--wp--preset--color--accent)"}},"button":{"color":{"background":"var(--wp--preset--color--accent)","text":"#FFFFFF"},"border":{"radius":"10px"}}},"css":"@font-face{font-family:'DM Sans';font-style:normal;font-weight:100 900;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2')}@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:300 700;font-display:swap;src:url(https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2) format('woff2')}.axiom-fill{width:100%}.axiom-head{overflow:visible;-webkit-backdrop-filter:saturate(1.4) blur(14px);backdrop-filter:saturate(1.4) blur(14px)}.axiom-brand a{color:inherit;text-decoration:none}.axiom-foot-links .ab-icon-list__icon:empty{display:none}.axiom-foot-links .ab-icon-list__link{text-decoration:none}.axiom-social .wp-social-link{border:1px solid #EBE9F2;border-radius:10px}.axiom-social .wp-social-link:hover{border-color:#7C3AED}.wp-block-group.axiom-foot-grid{grid-template-columns:1fr}@media(min-width:901px){.wp-block-group.axiom-foot-grid{grid-template-columns:1.6fr 1fr 1fr 1fr}}.wp-block-post-title{display:none!important}.axiom-blocks-section.is-layout-flow\u003E*,.axiom-blocks-section.is-layout-constrained\u003E*{margin-block-start:0}.axiom-shot{margin:0!important}.axiom-shot img{display:block;width:100%;height:auto}html{scroll-behavior:smooth}::selection{background:#F1EBFE;color:#4C1D95}.ab-accordion{width:100%}.ab-accordion__body-inner.ab-accordion__body-inner{margin-inline:0}.ab-pt-plan__name{order:1}.ab-pt-plan__desc.ab-pt-plan__desc{order:2;margin-top:6px;min-height:40px;opacity:1}.ab-pt-plan__price.ab-pt-plan__price{order:3;margin:18px 0 0}.ab-pt-plan__currency.ab-pt-plan__currency{align-self:baseline;margin-top:0;opacity:1}.ab-pt-plan__period.ab-pt-plan__period{opacity:1}.ab-pt-plan__cta-area.ab-pt-plan__cta-area{order:4;margin-top:24px}.ab-pt-plan__features.ab-pt-plan__features{order:5;margin:26px 0 0;padding-top:26px;border-top:1px solid #EBE9F2}.ab-pt-plan__badge.ab-pt-plan__badge{left:32px;transform:none}.ab-pt-plan__cta.ab-pt-plan__cta{background:#FFFFFF;color:#17131F;border-color:#E3E1EC}.ab-pt-plan__cta.ab-pt-plan__cta:hover,.ab-pt-plan__cta.ab-pt-plan__cta:focus-visible{background:#FFFFFF;color:#7C3AED;border-color:#7C3AED;opacity:1}.ab-pt-plan.is-highlight .ab-pt-plan__cta.ab-pt-plan__cta{background:#7C3AED;color:#FFFFFF;border-color:transparent}.ab-pt-plan.is-highlight .ab-pt-plan__cta.ab-pt-plan__cta:hover,.ab-pt-plan.is-highlight .ab-pt-plan__cta.ab-pt-plan__cta:focus-visible{background:#6D28D9;color:#FFFFFF;border-color:transparent;opacity:1}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}.wp-site-blocks\u003Eheader.wp-block-template-part,.wp-site-blocks\u003Emain,.wp-site-blocks\u003Efooter.wp-block-template-part{margin-block-start:0;margin-block-end:0}"},"settings":{"color":{"palette":{"custom":[{"slug":"base","color":"#FBFBFD","name":"Base"},{"slug":"contrast","color":"#17131F","name":"Ink"},{"slug":"surface","color":"#FFFFFF","name":"Surface"},{"slug":"tint","color":"#F5F3FB","name":"Tint"},{"slug":"muted","color":"#5C5768","name":"Muted"},{"slug":"border","color":"#EBE9F2","name":"Border"},{"slug":"accent","color":"#7C3AED","name":"Accent"},{"slug":"accent-tint","color":"#F1EBFE","name":"Accent tint"},{"slug":"ink-deep","color":"#171225","name":"Ink deep"}]}},"layout":{"contentSize":"640px","wideSize":"1160px"},"spacing":{"spacingSizes":{"custom":[{"slug":"40","size":"20px","name":"S"},{"slug":"60","size":"clamp(40px,6vw,64px)","name":"M"},{"slug":"80","size":"clamp(72px,10vw,132px)","name":"XL section"}]}},"typography":{"fontFamilies":{"theme":[{"name":"Manrope","slug":"manrope","fontFamily":"Manrope, sans-serif","fontFace":[{"src":["file:./assets/fonts/manrope/Manrope-VariableFont_wght.woff2"],"fontWeight":"200 800","fontStyle":"normal","fontFamily":"Manrope"}]},{"name":"Fira Code","slug":"fira-code","fontFamily":"\"Fira Code\", monospace","fontFace":[{"src":["file:./assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2"],"fontWeight":"300 700","fontStyle":"normal","fontFamily":"\"Fira Code\""}]}],"custom":[{"name":"DM Sans","slug":"dm-sans","fontFamily":"\"DM Sans\", sans-serif","fontFace":[{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hS2f3ZGMZpg.woff2","fontWeight":"100","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhS2f3ZGMZpg.woff2","fontWeight":"200","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhS2f3ZGMZpg.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthS2f3ZGMZpg.woff2","fontWeight":"600","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2","fontWeight":"700","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthS2f3ZGMZpg.woff2","fontWeight":"800","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thS2f3ZGMZpg.woff2","fontWeight":"900","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG32RmYJpso5.woff2","fontWeight":"100","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW32RmYJpso5.woff2","fontWeight":"200","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW32RmYJpso5.woff2","fontWeight":"300","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2","fontWeight":"400","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2","fontWeight":"500","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm32RmYJpso5.woff2","fontWeight":"600","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2","fontWeight":"700","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm32RmYJpso5.woff2","fontWeight":"800","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm32RmYJpso5.woff2","fontWeight":"900","fontStyle":"italic","fontFamily":"\"DM Sans\""}]},{"name":"Space Grotesk","slug":"space-grotesk","fontFamily":"\"Space Grotesk\", sans-serif","fontFace":[{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsmNsFjTDJK.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"\"Space Grotesk\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsmNsFjTDJK.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"Space Grotesk\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsmNsFjTDJK.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"Space Grotesk\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42VksmNsFjTDJK.woff2","fontWeight":"600","fontStyle":"normal","fontFamily":"\"Space Grotesk\""},{"src":"http://axiom-blocks.local/wp-content/uploads/fonts/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksmNsFjTDJK.woff2","fontWeight":"700","fontStyle":"normal","fontFamily":"\"Space Grotesk\""}]}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
+		<content:encoded><![CDATA[{"styles":{"color":{"background":"var(--wp--preset--color--base)","text":"var(--wp--preset--color--muted)"},"typography":{"fontFamily":"var(--wp--preset--font-family--dm-sans)","fontSize":"18px","lineHeight":"1.6"},"elements":{"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--space-grotesk)","fontWeight":"600","letterSpacing":"-0.02em"},"color":{"text":"var(--wp--preset--color--contrast)"}},"link":{"color":{"text":"var(--wp--preset--color--accent)"}},"button":{"color":{"background":"var(--wp--preset--color--accent)","text":"#FFFFFF"},"border":{"radius":"10px"}}},"css":"@font-face{font-family:'DM Sans';font-style:normal;font-weight:100 900;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2')}@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:300 700;font-display:swap;src:url(https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2) format('woff2')}.axiom-fill{width:100%}.axiom-head{overflow:visible;-webkit-backdrop-filter:saturate(1.4) blur(14px);backdrop-filter:saturate(1.4) blur(14px)}.axiom-brand a{color:inherit;text-decoration:none}.axiom-foot-links .ab-icon-list__icon:empty{display:none}.axiom-foot-links .ab-icon-list__link{text-decoration:none}.axiom-social .wp-social-link{border:1px solid #EBE9F2;border-radius:10px}.axiom-social .wp-social-link:hover{border-color:#7C3AED}.wp-block-group.axiom-foot-grid{grid-template-columns:1fr}@media(min-width:901px){.wp-block-group.axiom-foot-grid{grid-template-columns:1.6fr 1fr 1fr 1fr}}.wp-block-post-title{display:none!important}.axiom-blocks-section.is-layout-flow\u003E*,.axiom-blocks-section.is-layout-constrained\u003E*{margin-block-start:0}.axiom-shot{margin:0!important}.axiom-shot img{display:block;width:100%;height:auto}html{scroll-behavior:smooth}::selection{background:#F1EBFE;color:#4C1D95}.ab-accordion{width:100%}.ab-accordion__body-inner.ab-accordion__body-inner{margin-inline:0}.ab-pt-plan__name{order:1}.ab-pt-plan__desc.ab-pt-plan__desc{order:2;margin-top:6px;min-height:40px;opacity:1}.ab-pt-plan__price.ab-pt-plan__price{order:3;margin:18px 0 0}.ab-pt-plan__currency.ab-pt-plan__currency{align-self:baseline;margin-top:0;opacity:1}.ab-pt-plan__period.ab-pt-plan__period{opacity:1}.ab-pt-plan__cta-area.ab-pt-plan__cta-area{order:4;margin-top:24px}.ab-pt-plan__features.ab-pt-plan__features{order:5;margin:26px 0 0;padding-top:26px;border-top:1px solid #EBE9F2}.ab-pt-plan__badge.ab-pt-plan__badge{left:32px;transform:none}.ab-pt-plan__cta.ab-pt-plan__cta{background:#FFFFFF;color:#17131F;border-color:#E3E1EC}.ab-pt-plan__cta.ab-pt-plan__cta:hover,.ab-pt-plan__cta.ab-pt-plan__cta:focus-visible{background:#FFFFFF;color:#7C3AED;border-color:#7C3AED;opacity:1}.ab-pt-plan.is-highlight .ab-pt-plan__cta.ab-pt-plan__cta{background:#7C3AED;color:#FFFFFF;border-color:transparent}.ab-pt-plan.is-highlight .ab-pt-plan__cta.ab-pt-plan__cta:hover,.ab-pt-plan.is-highlight .ab-pt-plan__cta.ab-pt-plan__cta:focus-visible{background:#6D28D9;color:#FFFFFF;border-color:transparent;opacity:1}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}.wp-site-blocks\u003Eheader.wp-block-template-part,.wp-site-blocks\u003Emain,.wp-site-blocks\u003Efooter.wp-block-template-part{margin-block-start:0;margin-block-end:0}"},"settings":{"color":{"palette":{"custom":[{"slug":"base","color":"#FBFBFD","name":"Base"},{"slug":"contrast","color":"#17131F","name":"Ink"},{"slug":"surface","color":"#FFFFFF","name":"Surface"},{"slug":"tint","color":"#F5F3FB","name":"Tint"},{"slug":"muted","color":"#5C5768","name":"Muted"},{"slug":"border","color":"#EBE9F2","name":"Border"},{"slug":"accent","color":"#7C3AED","name":"Accent"},{"slug":"accent-tint","color":"#F1EBFE","name":"Accent tint"},{"slug":"ink-deep","color":"#171225","name":"Ink deep"}]}},"layout":{"contentSize":"640px","wideSize":"1160px"},"spacing":{"spacingSizes":{"custom":[{"slug":"40","size":"20px","name":"S"},{"slug":"60","size":"clamp(40px,6vw,64px)","name":"M"},{"slug":"80","size":"clamp(72px,10vw,132px)","name":"XL section"}]}},"typography":{"fontFamilies":{"theme":[{"name":"Manrope","slug":"manrope","fontFamily":"Manrope, sans-serif","fontFace":[{"src":["file:./assets/fonts/manrope/Manrope-VariableFont_wght.woff2"],"fontWeight":"200 800","fontStyle":"normal","fontFamily":"Manrope"}]},{"name":"Fira Code","slug":"fira-code","fontFamily":"\"Fira Code\", monospace","fontFace":[{"src":["file:./assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2"],"fontWeight":"300 700","fontStyle":"normal","fontFamily":"\"Fira Code\""}]}],"custom":[{"name":"DM Sans","slug":"dm-sans","fontFamily":"\"DM Sans\", sans-serif","fontFace":[{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hS2f3ZGMZpg.woff2","fontWeight":"100","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhS2f3ZGMZpg.woff2","fontWeight":"200","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhS2f3ZGMZpg.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthS2f3ZGMZpg.woff2","fontWeight":"600","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2","fontWeight":"700","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthS2f3ZGMZpg.woff2","fontWeight":"800","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thS2f3ZGMZpg.woff2","fontWeight":"900","fontStyle":"normal","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG32RmYJpso5.woff2","fontWeight":"100","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW32RmYJpso5.woff2","fontWeight":"200","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW32RmYJpso5.woff2","fontWeight":"300","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2","fontWeight":"400","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2","fontWeight":"500","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm32RmYJpso5.woff2","fontWeight":"600","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2","fontWeight":"700","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm32RmYJpso5.woff2","fontWeight":"800","fontStyle":"italic","fontFamily":"\"DM Sans\""},{"src":"https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm32RmYJpso5.woff2","fontWeight":"900","fontStyle":"italic","fontFamily":"\"DM Sans\""}]},{"name":"Space Grotesk","slug":"space-grotesk","fontFamily":"\"Space Grotesk\", sans-serif","fontFace":[{"src":"https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsmNsFjTDJK.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"\"Space Grotesk\""},{"src":"https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsmNsFjTDJK.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"Space Grotesk\""},{"src":"https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsmNsFjTDJK.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"Space Grotesk\""},{"src":"https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42VksmNsFjTDJK.woff2","fontWeight":"600","fontStyle":"normal","fontFamily":"\"Space Grotesk\""},{"src":"https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksmNsFjTDJK.woff2","fontWeight":"700","fontStyle":"normal","fontFamily":"\"Space Grotesk\""}]}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 14:40:31]]></wp:post_date>
@@ -1389,10 +1345,10 @@
 						</item>
 					<item>
 		<title><![CDATA[Space Grotesk]]></title>
-		<link>http://axiom-blocks.local/space-grotesk/</link>
+		<link>https://wpaxiom.com/space-grotesk/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/space-grotesk/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/space-grotesk/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"fontFamily":"\"Space Grotesk\", sans-serif","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/space-grotesk\/space-grotesk.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1413,10 +1369,10 @@
 														</item>
 					<item>
 		<title><![CDATA[DM Sans]]></title>
-		<link>http://axiom-blocks.local/dm-sans/</link>
+		<link>https://wpaxiom.com/dm-sans/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sans/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sans/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"fontFamily":"\"DM Sans\", sans-serif","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1437,12 +1393,12 @@
 														</item>
 					<item>
 		<title><![CDATA[dm sans;normal;300;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansnormal300100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansnormal300100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansnormal300100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansnormal300100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhS2f3ZGMZpg.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-300-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhS2f3ZGMZpg.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-300-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:50]]></wp:post_date>
@@ -1458,19 +1414,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhS2f3ZGMZpg.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;normal;400;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansnormal400100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansnormal400100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansnormal400100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansnormal400100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-400-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-400-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:50]]></wp:post_date>
@@ -1486,19 +1438,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;normal;500;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansnormal500100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansnormal500100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansnormal500100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansnormal500100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-500-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-500-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:51]]></wp:post_date>
@@ -1514,19 +1462,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;normal;600;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansnormal600100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansnormal600100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansnormal600100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansnormal600100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthS2f3ZGMZpg.woff2","fontWeight":"600","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-600-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthS2f3ZGMZpg.woff2","fontWeight":"600","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-600-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:51]]></wp:post_date>
@@ -1542,19 +1486,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthS2f3ZGMZpg.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;normal;700;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansnormal700100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansnormal700100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansnormal700100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansnormal700100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2","fontWeight":"700","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-700-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2","fontWeight":"700","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-700-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:51]]></wp:post_date>
@@ -1570,19 +1510,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;normal;800;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansnormal800100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansnormal800100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansnormal800100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansnormal800100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthS2f3ZGMZpg.woff2","fontWeight":"800","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-800-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthS2f3ZGMZpg.woff2","fontWeight":"800","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-800-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:51]]></wp:post_date>
@@ -1598,19 +1534,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthS2f3ZGMZpg.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;normal;900;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansnormal900100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansnormal900100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansnormal900100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansnormal900100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thS2f3ZGMZpg.woff2","fontWeight":"900","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-900-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thS2f3ZGMZpg.woff2","fontWeight":"900","fontStyle":"normal","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-900-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:51]]></wp:post_date>
@@ -1626,19 +1558,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thS2f3ZGMZpg.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;italic;100;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansitalic100100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansitalic100100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansitalic100100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansitalic100100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG32RmYJpso5.woff2","fontWeight":"100","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-100-italic.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG32RmYJpso5.woff2","fontWeight":"100","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-100-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:52]]></wp:post_date>
@@ -1654,19 +1582,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG32RmYJpso5.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;italic;200;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansitalic200100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansitalic200100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansitalic200100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansitalic200100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW32RmYJpso5.woff2","fontWeight":"200","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-200-italic.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW32RmYJpso5.woff2","fontWeight":"200","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-200-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:52]]></wp:post_date>
@@ -1682,19 +1606,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW32RmYJpso5.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;italic;300;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansitalic300100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansitalic300100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansitalic300100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansitalic300100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW32RmYJpso5.woff2","fontWeight":"300","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-300-italic.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW32RmYJpso5.woff2","fontWeight":"300","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-300-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:52]]></wp:post_date>
@@ -1710,19 +1630,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW32RmYJpso5.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;italic;400;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansitalic400100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansitalic400100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansitalic400100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansitalic400100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2","fontWeight":"400","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-400-italic.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2","fontWeight":"400","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-400-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:52]]></wp:post_date>
@@ -1738,19 +1654,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW32RmYJpso5.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;italic;500;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansitalic500100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansitalic500100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansitalic500100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansitalic500100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2","fontWeight":"500","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-500-italic.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2","fontWeight":"500","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-500-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:52]]></wp:post_date>
@@ -1766,19 +1678,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;italic;600;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansitalic600100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansitalic600100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansitalic600100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansitalic600100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm32RmYJpso5.woff2","fontWeight":"600","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-600-italic.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm32RmYJpso5.woff2","fontWeight":"600","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-600-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:52]]></wp:post_date>
@@ -1794,19 +1702,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm32RmYJpso5.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;italic;700;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansitalic700100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansitalic700100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansitalic700100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansitalic700100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2","fontWeight":"700","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-700-italic.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2","fontWeight":"700","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-700-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:53]]></wp:post_date>
@@ -1822,19 +1726,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;italic;800;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansitalic800100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansitalic800100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansitalic800100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansitalic800100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm32RmYJpso5.woff2","fontWeight":"800","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-800-italic.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm32RmYJpso5.woff2","fontWeight":"800","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-800-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:53]]></wp:post_date>
@@ -1850,19 +1750,15 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm32RmYJpso5.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[dm sans;italic;900;100%;U+0-10FFFF]]></title>
-		<link>http://axiom-blocks.local/dm-sansitalic900100u0-10ffff/</link>
+		<link>https://wpaxiom.com/dm-sansitalic900100u0-10ffff/</link>
 		<pubDate>Tue, 14 Jul 2026 15:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/dm-sansitalic900100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/dm-sansitalic900100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/axiom-blocks.local\/wp-content\/uploads\/fonts\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm32RmYJpso5.woff2","fontWeight":"900","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-900-italic.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/fonts.gstatic.com\/s\/dmsans\/v17\/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm32RmYJpso5.woff2","fontWeight":"900","fontStyle":"italic","fontFamily":"\"DM Sans\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-7.0\/previews\/dm-sans\/dm-sans-900-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 15:59:53]]></wp:post_date>
@@ -1878,17 +1774,13 @@
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm32RmYJpso5.woff2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Page: Axiom Landing]]></title>
-		<link>http://axiom-blocks.local/page-axiom-landing/</link>
+		<link>https://wpaxiom.com/page-axiom-landing/</link>
 		<pubDate>Wed, 05 Aug 2026 15:40:49 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/page-axiom-landing/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/page-axiom-landing/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","tagName":"header"} /-->
 
@@ -1918,10 +1810,10 @@
 						</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>http://axiom-blocks.local/header/</link>
+		<link>https://wpaxiom.com/header/</link>
 		<pubDate>Thu, 06 Aug 2026 02:23:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/header/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/header/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:axiom-blocks/advanced-section {"align":"full","className":"axiom-head","layout":{"type":"constrained"},"bgType":"color","bgColor":"#FBFBFDD1","minHeight":"72px","verticalAlign":"center","horizontalAlign":"center","borderStyle":"solid","borderColor":"#EBE9F2","borderTopWidth":"0px","borderRightWidth":"0px","borderBottomWidth":"1px","borderLeftWidth":"0px","paddingTop":"10px","paddingBottom":"10px","paddingRight":"clamp(20px,5vw,40px)","paddingLeft":"clamp(20px,5vw,40px)"} -->
 <!-- wp:group {"align":"wide","className":"axiom-fill","style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
@@ -1930,23 +1822,23 @@
 <div class="wp-block-group">
 <!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group">
-<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"http://axiom-blocks.local/"} /-->
+<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"/"} /-->
 <!-- wp:paragraph {"className":"axiom-brand","style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"600","letterSpacing":"-0.02em","lineHeight":"1"},"color":{"text":"#17131F"}}} -->
-<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="http://axiom-blocks.local/">Sable</a></p>
+<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="/">Sable</a></p>
 <!-- /wp:paragraph -->
 </div>
 <!-- /wp:group -->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Home","url":"http://axiom-blocks.local/","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Features","url":"http://axiom-blocks.local/#features","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Blog","url":"http://axiom-blocks.local/blog/","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Pricing","url":"http://axiom-blocks.local/#pricing","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
-<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"FAQ","url":"http://axiom-blocks.local/#faq","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Home","url":"/","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Features","url":"#features","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Blog","url":"/blog/","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Pricing","url":"#pricing","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"FAQ","url":"#faq","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
 </div>
 <!-- /wp:group -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group">
 <!-- wp:axiom-blocks/advanced-button {"hideMobile":true,"text":"Sign in","url":"#","stylePreset":"text","sizePreset":"sm","textColor":"#5C5768","hoverTextColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"500","lineHeight":"1","buttonPaddingTop":"0px","buttonPaddingRight":"0px","buttonPaddingBottom":"0px","buttonPaddingLeft":"0px"} /-->
-<!-- wp:axiom-blocks/advanced-button {"text":"Start free","url":"http://axiom-blocks.local/#pricing","stylePreset":"fill","sizePreset":"sm","bgColor":"#7C3AED","textColor":"#FFFFFF","hoverBgColor":"#6D28D9","hoverTextColor":"#FFFFFF","borderRadius":"10px","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"600","lineHeight":"1","buttonPaddingTop":"11px","buttonPaddingRight":"18px","buttonPaddingBottom":"11px","buttonPaddingLeft":"18px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"text":"Start free","url":"#pricing","stylePreset":"fill","sizePreset":"sm","bgColor":"#7C3AED","textColor":"#FFFFFF","hoverBgColor":"#6D28D9","hoverTextColor":"#FFFFFF","borderRadius":"10px","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","fontWeight":"600","lineHeight":"1","buttonPaddingTop":"11px","buttonPaddingRight":"18px","buttonPaddingBottom":"11px","buttonPaddingLeft":"18px"} /-->
 </div>
 <!-- /wp:group -->
 </div>
@@ -1976,10 +1868,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Footer]]></title>
-		<link>http://axiom-blocks.local/footer/</link>
+		<link>https://wpaxiom.com/footer/</link>
 		<pubDate>Thu, 06 Aug 2026 02:25:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://axiom-blocks.local/footer/</guid>
+		<guid isPermaLink="false">https://wpaxiom.com/footer/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:axiom-blocks/advanced-section {"align":"full","layout":{"type":"constrained"},"bgType":"color","bgColor":"#FFFFFF","minHeight":"auto","verticalAlign":"top","horizontalAlign":"center","borderStyle":"solid","borderColor":"#EBE9F2","borderTopWidth":"1px","borderRightWidth":"0px","borderBottomWidth":"0px","borderLeftWidth":"0px","paddingTop":"clamp(56px,7vw,80px)","paddingBottom":"40px","paddingRight":"clamp(20px,5vw,40px)","paddingLeft":"clamp(20px,5vw,40px)"} -->
 <!-- wp:group {"align":"wide","className":"axiom-foot-grid axiom-fill","style":{"spacing":{"blockGap":"40px"}},"layout":{"type":"grid","columnCount":4}} -->
@@ -1988,9 +1880,9 @@
 <div class="wp-block-group">
 <!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"bottom":"14px"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group" style="margin-bottom:14px">
-<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"http://axiom-blocks.local/"} /-->
+<!-- wp:axiom-blocks/icon {"iconSlug":"custom:ikqim0st","iconSize":"26px","shape":"none","iconAlign":"left","url":"/"} /-->
 <!-- wp:paragraph {"className":"axiom-brand","style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"600","letterSpacing":"-0.02em","lineHeight":"1"},"color":{"text":"#17131F"}}} -->
-<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="http://axiom-blocks.local/">Sable</a></p>
+<p class="axiom-brand has-text-color" style="color:#17131F;font-size:21px;font-style:normal;font-weight:600;letter-spacing:-0.02em;line-height:1"><a href="/">Sable</a></p>
 <!-- /wp:paragraph -->
 </div>
 <!-- /wp:group -->
@@ -2002,13 +1894,13 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group">
 <!-- wp:axiom-blocks/advanced-heading {"headingText":"Product","tagName":"h4","headingColor":"#8B8797","headingFontFamily":"'DM Sans', system-ui, sans-serif","headingFontSize":"13px","headingFontWeight":"600","headingLetterSpacing":"0.1em","headingTextTransform":"uppercase","headingLineHeight":"1.2","marginBottom":"16px"} /-->
-<!-- wp:axiom-blocks/icon-list {"className":"axiom-foot-links","layout":"vertical","itemsAlign":"left","items":[{"id":"p1","icon":"","text":"Features","url":"http://axiom-blocks.local/#features"},{"id":"p2","icon":"","text":"Pricing","url":"http://axiom-blocks.local/#pricing"},{"id":"p3","icon":"","text":"Changelog","url":"#"},{"id":"p4","icon":"","text":"Integrations","url":"#"}],"textColor":"#5C5768","linkColor":"#5C5768","linkHoverColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","gap":"0px","rowGap":"11px"} /-->
+<!-- wp:axiom-blocks/icon-list {"className":"axiom-foot-links","layout":"vertical","itemsAlign":"left","items":[{"id":"p1","icon":"","text":"Features","url":"#features"},{"id":"p2","icon":"","text":"Pricing","url":"#pricing"},{"id":"p3","icon":"","text":"Changelog","url":"#"},{"id":"p4","icon":"","text":"Integrations","url":"#"}],"textColor":"#5C5768","linkColor":"#5C5768","linkHoverColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","gap":"0px","rowGap":"11px"} /-->
 </div>
 <!-- /wp:group -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group">
 <!-- wp:axiom-blocks/advanced-heading {"headingText":"Resources","tagName":"h4","headingColor":"#8B8797","headingFontFamily":"'DM Sans', system-ui, sans-serif","headingFontSize":"13px","headingFontWeight":"600","headingLetterSpacing":"0.1em","headingTextTransform":"uppercase","headingLineHeight":"1.2","marginBottom":"16px"} /-->
-<!-- wp:axiom-blocks/icon-list {"className":"axiom-foot-links","layout":"vertical","itemsAlign":"left","items":[{"id":"r1","icon":"","text":"Docs","url":"http://axiom-blocks.local/#faq"},{"id":"r2","icon":"","text":"API","url":"#"},{"id":"r3","icon":"","text":"Status","url":"#"},{"id":"r4","icon":"","text":"Community","url":"#"}],"textColor":"#5C5768","linkColor":"#5C5768","linkHoverColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","gap":"0px","rowGap":"11px"} /-->
+<!-- wp:axiom-blocks/icon-list {"className":"axiom-foot-links","layout":"vertical","itemsAlign":"left","items":[{"id":"r1","icon":"","text":"Docs","url":"#faq"},{"id":"r2","icon":"","text":"API","url":"#"},{"id":"r3","icon":"","text":"Status","url":"#"},{"id":"r4","icon":"","text":"Community","url":"#"}],"textColor":"#5C5768","linkColor":"#5C5768","linkHoverColor":"#17131F","fontFamily":"'DM Sans', system-ui, sans-serif","fontSize":"15px","gap":"0px","rowGap":"11px"} /-->
 </div>
 <!-- /wp:group -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
@@ -2058,7 +1950,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Page: Blog]]></title>
-		<link>http://axiom-blocks.local/page-blog/</link>
+		<link>https://wpaxiom.com/page-blog/</link>
 		<pubDate>Sun, 06 Sep 2026 05:46:06 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false"></guid>
@@ -2091,7 +1983,7 @@
 						</item>
 					<item>
 		<title><![CDATA[Single post]]></title>
-		<link>http://axiom-blocks.local/single/</link>
+		<link>https://wpaxiom.com/single/</link>
 		<pubDate>Sun, 06 Sep 2026 06:22:29 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false"></guid>
@@ -2128,9 +2020,9 @@
 <!-- wp:axiom-blocks/advanced-heading {"headingText":"Keep reading","tagName":"h2","subEnabled":true,"subText":"More short pieces on deploys, previews and the parts of shipping nobody puts on a slide.","headingSubGap":"14px","headingColor":"#17131F","subColor":"#5C5768","headingFontFamily":"'Space Grotesk', sans-serif","headingFontWeight":"600","headingFontSize":"clamp(24px,3vw,32px)","headingLineHeight":"1.15","headingLetterSpacing":"-0.02em","headingTextAlign":"center","subFontFamily":"'DM Sans', system-ui, sans-serif","subFontSize":"16px","subLineHeight":"1.6","subTextAlign":"center","marginBottom":"22px"} /-->
 
 <!-- wp:axiom-blocks/button-group {"justify":"center","gap":12} -->
-<!-- wp:axiom-blocks/advanced-button {"text":"All articles","url":"http://axiom-blocks.local/blog/","icon":"arrow-right","iconSize":"17px","iconGap":"8px","sizePreset":"lg","textColor":"#FFFFFF","bgColor":"#7C3AED","borderRadius":"10px","hoverTextColor":"#FFFFFF","hoverBgColor":"#6D28D9","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"text":"All articles","url":"/blog/","icon":"arrow-right","iconSize":"17px","iconGap":"8px","sizePreset":"lg","textColor":"#FFFFFF","bgColor":"#7C3AED","borderRadius":"10px","hoverTextColor":"#FFFFFF","hoverBgColor":"#6D28D9","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} /-->
 
-<!-- wp:axiom-blocks/advanced-button {"text":"Start free","url":"http://axiom-blocks.local/#pricing","stylePreset":"outline","sizePreset":"lg","textColor":"#17131F","borderColor":"#D8D4E6","hoverTextColor":"#17131F","hoverBgColor":"#FFFFFF","borderRadius":"10px","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} /-->
+<!-- wp:axiom-blocks/advanced-button {"text":"Start free","url":"#pricing","stylePreset":"outline","sizePreset":"lg","textColor":"#17131F","borderColor":"#D8D4E6","hoverTextColor":"#17131F","hoverBgColor":"#FFFFFF","borderRadius":"10px","fontFamily":"'DM Sans', system-ui, sans-serif","fontWeight":"600","fontSize":"16px","lineHeight":"1","buttonPaddingTop":"14px","buttonPaddingRight":"22px","buttonPaddingBottom":"14px","buttonPaddingLeft":"22px"} /-->
 <!-- /wp:axiom-blocks/button-group -->
 <!-- /wp:axiom-blocks/advanced-section -->
 </main>
